@@ -1,0 +1,25 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamDo8467/COMP3133_101293009_wk4_lab3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamDo8467/COMP3133_101293009_wk4_lab3/issues"
+  },
+  "homepage": "https://github.com/NamDo8467/COMP3133_101293009_wk4_lab3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  }
+}
