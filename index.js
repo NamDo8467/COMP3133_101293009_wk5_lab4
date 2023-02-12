@@ -3,7 +3,7 @@ const mongoose = require("mongoose")
 const app = express()
 const { router } = require("./routes")
 
-const PORT = 5000
+const PORT = 3000
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
